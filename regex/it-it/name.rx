@@ -1,0 +1,4 @@
+\b^.*sveglia.* (di|del|per) (?P<Name>.*) (ogni|per le|delle|dell'|alle|all').*$
+\b^.*sveglia.* (di|del|per) (?P<Name>.*)$
+\b^.* sveglia (?P<Name>.*) (ogni|per le|delle|dell'|alle|all').*$
+\b^.* (?P<Name>.*) sveglia$
